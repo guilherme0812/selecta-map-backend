@@ -5,7 +5,9 @@ import { Router } from "express";
 const router = Router();
 
 // router.use('/auth', authRoutes);
-// router.use('/companies', companyRoutes);
+// router.use('/companies', (req, res) => {
+
+// });
 
 // Adicione as rotas para outros módulos aqui
 
